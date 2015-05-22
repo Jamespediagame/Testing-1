@@ -1,2 +1,3 @@
-# Testing-1
-For testing-1
+My first repository on GitHub!
+================
+I love Guitar, Game, and Lego.
